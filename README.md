@@ -4,6 +4,7 @@
 ## Description
 This was our final project for the Full Stack Web Development Program through the University of Washington. This application allows users to SignUp using Firebase Authentication and Firestore to store all the user data. After signing up, users can then proceed to login into their account and search for a movie of their choice. A list of movie will be generate for users to browse through and click on a movie. This will then open a popup page with more information on the movie. Users then have the ability to rate, comment or save the movie to the database.
 
+![PicAFlic Demo](client/src/img/pic-a-flic.gif)
 
 ## Table of Contents
 * [Description](#description)
