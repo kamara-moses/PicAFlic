@@ -32,10 +32,15 @@ Before installing this application on yopur local computer, ensure that you have
    2. Go to Localhost:3000 or https://picaflic.herokuapp.com/
 
    3. SignUp if you do not already have an account or LogIn if you already have an account
+        <img src="client/src/img/login.png" alt="LogIn and SignIn Page">
 
    4. Search for any movie you choose
+        <img src="client/src/img/search.png" alt="Search for Movie Page">
 
    5. Click on the movie for more details and options to rate, comment and save the movie to the database
+        <img src="client/src/img/options.png" alt="Movie Options Page">
+        <br />
+        <img src="client/src/img/popup.png" alt="More Movie Info Popup Page">
 
    6. Close the popup and logout of the application
 
